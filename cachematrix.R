@@ -1,6 +1,5 @@
 
-
-
+# Assignment 2
 
 makeVector <- function(x = numeric()) {
   m <- NULL
@@ -62,7 +61,6 @@ cacheSolve <- function(x, ...) {
   x$setInverse(invFunc)
   invFunc
 }
-
 
 my_matrix$set(matrix(c(6, 3, 2, 9), 2, 2))
 my_matrix$get()
