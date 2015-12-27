@@ -63,7 +63,6 @@ cacheSolve <- function(x, ...) {
   invFunc
 }
 
-
 my_matrix$set(matrix(c(6, 3, 2, 9), 2, 2))
 my_matrix$get()
 
